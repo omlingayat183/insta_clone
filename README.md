@@ -149,7 +149,7 @@ flutter build ios --release
 
 ## 🎥 Demo Recording
 
-> [Loom Link Placeholder]
+> https://drive.google.com/file/d/1OB0mv0u8DUdAQ4mY2Z1GvNx07WMz-oX6/view?usp=sharing
 
 Shows:
 1. Shimmer loading state (1.5s on cold start)
